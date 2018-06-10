@@ -1,1 +1,1 @@
-worker: python tutito.py
+worker: python Tutito.py
